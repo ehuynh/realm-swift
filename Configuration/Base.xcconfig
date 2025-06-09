@@ -82,5 +82,7 @@ REALM_MACH_O_TYPE = mh_dylib;
 SUPPORTED_PLATFORMS = macosx iphoneos iphonesimulator watchos watchsimulator appletvos appletvsimulator xros xrsimulator;
 SUPPORTS_MACCATALYST = YES;
 SWIFT_VERSION = 5.7;
+SWIFT_VERSION_2600 = 5.7;
+
 TARGETED_DEVICE_FAMILY = 1,2,3,4,6,7;
 
